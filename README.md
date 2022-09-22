@@ -8,6 +8,7 @@ This is simply a curated list of resources for new web developers. It ranges fro
 - CSS Templates
 - Visuals for your project
 - Useful Tools
+- Freelancing options and remote jobs
 
 ## License
 
