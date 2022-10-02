@@ -52,6 +52,7 @@
 - [Responsively](https://responsively.app/) - Preview all target screens in a single window side-by-side
 - [Awesome Screenshot and Screen Recorder](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) - the best screen recorder and screen capture & screenshot tool to record screen
 - [Lightshot](https://app.prntscr.com/en/index.html) - the fastest way to take a customizable screenshot
+- [GitHub explorer](https://gitexplorer.com/) - learn git commands fast
 
 ## Freelancing options and remote jobs
 
